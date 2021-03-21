@@ -11,7 +11,7 @@ public class Bank {
     int saldo, simUang, ambilUang;
     public Bank (int saldo){
         this.saldo=saldo;
-        System.out.println("Selamat datang di Bank happy");
+        System.out.println("Selamat datang di Bank ABC");
         System.out.println("Saldo saat ini: RP"+saldo);
         }
     void simUang(int simUang){
