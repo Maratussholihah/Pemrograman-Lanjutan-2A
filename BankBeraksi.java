@@ -8,8 +8,8 @@ package bank;
 
 public class BankBeraksi {
     public static void main(String[] args){
-        Bank bankhappy = new Bank (200000);
-        bankhappy.simUang (100000);
-        bankhappy.ambilUang (50000);
+        Bank BankABC = new Bank (100000);
+        BankABC.simUang (500000);
+        BankABC.ambilUang (150000);
     }
 }
